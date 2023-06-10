@@ -8,9 +8,10 @@ The app does not save or share the request itself or the response from ChatGPT w
 
 We also confirm that the app collects the following information and saves it to the Google Firebase Database to help us improve the app and monitor the costs associated with ChatGPT usage:
 
-Your email address
-The token used to process your request from ChatGPT. The tokens are in the form of numbers and help us calculate the cost of your request.
-The time you sent the message.
+- Your email address
+- The token used to process your request from ChatGPT. The tokens are in the form of numbers and help us calculate the cost of your request.
+- The time you sent the message.
+
 We hereby state, to the best of our knowledge and belief, that we have not programmed this app to collect any further personal information. You can delete all of your messages by simply uninstalling the application.
 
 To provide the functionality of saving and loading images and files, the app requires access to your device's storage. This access is necessary solely for the purpose of managing these specific app-related files.
